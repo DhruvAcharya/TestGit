@@ -16,7 +16,7 @@ ENDCLASS.
 CLASS z_class_dhr IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
-    out->write( 'hello' ).
+    out->write( 'hello india' ).
   ENDMETHOD.
 
 ENDCLASS.
